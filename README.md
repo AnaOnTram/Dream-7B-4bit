@@ -10,16 +10,18 @@ Clone the repository
 git clone https://github.com/AnaOnTram/Dream-7B-4bit.git
 ```
 
-##pre-requirements
+## pre-requirements
 ```bash
 conda create -n Dream python=3.11
 pip install transformers==4.46.2 torch==2.5.1 bitsandbytes accelerate
 ```
 
-##Demo
-For single chat please run ```bash
+## Demo
+For single chat please run 
+```bash
 python single_chat.py
 ```
-For multi-rounds chat, please run  ```bash
+For multi-rounds chat, please run 
+```bash
 python multi_chat.py
 ```
