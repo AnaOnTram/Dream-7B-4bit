@@ -1,6 +1,6 @@
 # Model Info
 [![Static Badge](https://img.shields.io/badge/Hugging%20Face%20🤗-Dream%207B_Base-blue)
-]([https://huggingface.co/Dream-org/Dream-v0-Base-7B](https://huggingface.co/Rainnighttram/Dream-v0-Instruct-7B-4bit))
+]([https://huggingface.co/Dream-org/Dream-v0-Base-7B](https://huggingface.co/Rainnighttram/Dream-v0-Instruct-7B-4bit))\n
 [Rinnighttram/Dream-v0-Instruct](https://huggingface.co/Rainnighttram/Dream-v0-Instruct-7B-4bit)
 4 bit quantization of [HKUNLP/Dream](https://github.com/HKUNLP/Dream) Dream-7B Diffusion Language Model.
 ## Syetm Requirements
